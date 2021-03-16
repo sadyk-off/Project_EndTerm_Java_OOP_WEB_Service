@@ -1,0 +1,2 @@
+# Project_EndTerm_Java_OOP_WEB_Service
+Purpose: To provide delivery services. Concept: It is a customer-centric company because the consumer decides how to deliver their package by choosing the type of delivery and managing. The client has functions like "get", "add", "change", "delete". This new type of service is very convenient for today. Yes, there are mail applications like post.kz now. But its disadvantage is that you cannot change the fields for sending. And in our service you can do anything, even sell or buy another client.
